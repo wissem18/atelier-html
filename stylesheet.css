@@ -1,0 +1,17 @@
+.partie1{
+ background: linear-gradient(90deg, rgba(0,255,248,1) 0%, rgba(56,115,222,1) 50%, rgba(16,5,196,1) 100%);;
+}
+.partie2{
+   
+background: linear-gradient(270deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+.partie3{
+    background: linear-gradient(90deg, rgba(148,187,233,1) 0%, rgba(238,174,202,1) 100%);
+}
+.partie4{
+    background: linear-gradient(90deg, rgba(30,194,221,1) 0%, rgba(58,70,102,1) 100%);
+}
+body{
+    background-color:skyblue;
+}
