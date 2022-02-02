@@ -1,8 +1,12 @@
 .partie{
+    border: 5 solid black;
     padding:10px;
-    height:120px;
+    height:115px;
     background: linear-gradient(90deg, rgba(30,194,221,1) 0%, rgba(58,70,102,1) 100%);
 }
 .bg{
     background-color:skyblue;
+}
+.hra{
+    border:3px solid black;
 }
